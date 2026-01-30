@@ -24,13 +24,13 @@ class Heroi {
   }
 }
 
-// Criando heróis
+
 let heroi1 = new Heroi("Arthus", 30, "guerreiro");
 let heroi2 = new Heroi("Merlin", 150, "mago");
 let heroi3 = new Heroi("Lee", 40, "monge");
 let heroi4 = new Heroi("Ryu", 25, "ninja");
 
-// Executando ataques
+
 heroi1.atacar();
 heroi2.atacar();
 heroi3.atacar();
